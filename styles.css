@@ -19,7 +19,8 @@ input{
 .top{
   position:absolute;
   top:0px;
-  font-color:white;}
+  color:white;
+  font-size:36px;}
 
 .det{
   background-color:#FFFFFF;
