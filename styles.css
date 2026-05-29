@@ -24,7 +24,7 @@ input{
 .det{
   background-color:#FFFFFF;
   display:flex;
-  align-items:flex-end;
+  align-items:flex-start;
   width:60%;
   height:60vh;
   min-height:100%;
@@ -35,7 +35,7 @@ input{
   gap:10px;
   display:flex;
   flex-direction:column;
-  justify-content:flex-end;}
+  justify-content:flex-start;}
 
 button{
   width:100px;
