@@ -1,6 +1,7 @@
 body{
   background-image: url("Themewhatsapp.jpg");
   background-size: cover;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
   font-family: 'Arial', sans-serif;
   font-weight: normal;
   min-height: 100vh;
