@@ -57,6 +57,11 @@ img{
 de:hover{
   transform:scale(1.01);}
 
+.he{
+  display:flex;
+  justify-content:center;
+  align-items:center;}
+
 
 
 
