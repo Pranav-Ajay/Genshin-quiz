@@ -46,7 +46,7 @@ input{
   border-radius:20px;}
 
 .log{
-  height:65vh;
+  height:100%;
   display:flex;
   justify-content:flex-start;
   }
@@ -57,7 +57,7 @@ button{
   border-radius:20px;}
 
 img{
-  height:65vh;
+  height:100%;
   width:150px;
   border-radius:20px;}
 
