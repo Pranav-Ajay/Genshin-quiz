@@ -19,7 +19,7 @@ div{
   gap:10px;
   display:flex;
   justify-content:center;
-  align-items:center;
+  align-items:flex-end;
   flex-direction:column;
   background-color:#FBFAF5;
   border-radius:20px;
