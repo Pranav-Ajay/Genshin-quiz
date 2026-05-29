@@ -1,5 +1,6 @@
 body{
-  background-color:#4D8B7B;
+  background-image:url("Themewhastapp.jpg");
+  background-size:cover;
   font-family: 'Arial', sans-serif;
   font-weight: normal;
   min-height: 100vh;
