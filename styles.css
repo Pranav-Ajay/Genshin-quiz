@@ -17,12 +17,6 @@ input{
   outline: none;
   box-shadow: none;}
 
-.top{
-  position:absolute;
-  top:0px;
-  color:white;
-  font-size:36px;}
-
 .de{
   background-color:#FFFFFF;
   display:flex;
