@@ -3,3 +3,9 @@ body{
   font-family:Arial;
   display:flex;
   align-items:center;}
+
+input{
+  border-radius:15px;}
+
+div{
+  background-color:#FBFAF5;}
