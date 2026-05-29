@@ -18,11 +18,12 @@ input{
 div{
   gap:10px;
   display:flex;
+  justify-content:flex-end;
   align-items:flex-end;
   flex-direction:column;
   background-color:#FBFAF5;
   border-radius:20px;
-  width:200px;
+  width:500px;
   padding:80px;}
 
 .x{
