@@ -24,6 +24,7 @@ input{
 .det{
   background-color:#FFFFFF;
   display:flex;
+  gap:30px;
   flex-direction:row;
   width:60%;
   height:60vh;
