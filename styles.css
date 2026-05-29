@@ -26,6 +26,9 @@ div{
   padding:30px;
   transition:0.3s}
 
+div:hover{
+  transform:scale(1.01);}
+
 .x{
   gap:10px;
   padding:10px;
