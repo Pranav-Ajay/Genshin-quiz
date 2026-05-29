@@ -1,7 +1,7 @@
 body{
   background-color:#93CAED;
   font-family:Arial;
-  font-weight:0px;
+  font-weight:none;
   display:flex;
   align-items:center;
   justify-content:center;
@@ -22,3 +22,8 @@ div{
   width:50%;
   height:50vh;
   padding:20px;}
+
+.x{
+  display:flex;
+  flex-direction:column;}
+  
