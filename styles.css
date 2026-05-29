@@ -58,6 +58,10 @@ de:hover{
   transform:scale(1.01);}
 
 .he{
+  position:absolute;
+  top:0px;
+  width:100%;
+  height:150px;
   display:flex;
   justify-content:center;
   align-items:center;}
