@@ -1,12 +1,12 @@
 body{
   background-color:#93CAED;
   font-family:Arial;
-  font-weight:none;
+  font-weight: normal;
   display:flex;
   align-items:center;
   justify-content:center;
   flex-direction:column;
-  font-size:10px;}
+  font-size:10p;}
 
 input{
   border-radius:15px;
