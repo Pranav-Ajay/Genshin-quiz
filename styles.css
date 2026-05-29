@@ -56,6 +56,8 @@ input:focus{
 
 button{
   width:100px;
+  cursor:pointer;
+  border:none;
   background-color:#25D366;
   border-radius:20px;}
 
