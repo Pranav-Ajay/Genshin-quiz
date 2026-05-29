@@ -27,7 +27,8 @@ div{
   flex-direction:column;}
 
 button{
-  width:40px;
+  width:100px;
   border-radius:10px;
+  justify-content:center;
 }
   
