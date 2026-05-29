@@ -29,7 +29,7 @@ input{
   height:50vh;
   min-height:100%;
   border-radius:20px;
-  transition:0.3px;}
+  transition:0.3s;}
 
 .det{
   background-color:#FFFFFF;
