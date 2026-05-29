@@ -28,6 +28,7 @@ input{
   gap:30px;
   flex-direction:row;
   width:60%;
+  height:60vh;
   min-height:100%;
   border-radius:20px;}
 
