@@ -58,6 +58,8 @@ de:hover{
   transform:scale(1.01);}
 
 .he{
+  background-image: url("Whatsapp.jpg");
+  background-size: cover;
   width:100%;
   position:absolute;
   top:0px;
