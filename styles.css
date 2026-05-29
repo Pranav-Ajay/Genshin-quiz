@@ -9,6 +9,7 @@ body{
   font-size:10px;}
 
 input{
+  height:30px;
   border-radius:5px;
   outline: none;
   box-shadow: none;}
