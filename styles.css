@@ -24,7 +24,8 @@ div{
 
 .x{
   display:flex;
-  flex-direction:column;}
+  flex-direction:column;
+  align-items:flex-start;}
 
 button{
   width:100px;
