@@ -43,6 +43,16 @@ button{
   color: white;
 }
 
+.im{
+  display:flex;
+  justify-content:flex-end;
+}
+
+img{
+  height:30px;
+  width:30px;
+}
+
 a{
   color:black;
   text-decoration: none;}
