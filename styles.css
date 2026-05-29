@@ -24,7 +24,7 @@ input{
 .det{
   background-color:#FFFFFF;
   display:flex;
-  align-items:flex-start;
+  flex-direction:row;
   width:60%;
   height:60vh;
   min-height:100%;
@@ -40,7 +40,7 @@ input{
 button{
   width:100px;
   background-color:#4D8B7B;
-  fo
+  border-radius:20px;}
 
 
 
