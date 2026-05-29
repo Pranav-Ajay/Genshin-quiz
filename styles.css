@@ -2,9 +2,10 @@ body{
   font-family: 'Arial', sans-serif;
   font-weight: normal;
   display:flex;
-  justify-content:flex-end;
+  justify-content:center;
   align-items:center;
   font-size:10px;
+  min-height:100vh;
   margin: 0;}
 
 input{
@@ -22,7 +23,7 @@ div{
   flex-direction:column;
   background-color:#FBFAF5;
   border-radius:20px;
-  height:50vh;
+  width:200px;
   padding:80px;}
 
 .x{
