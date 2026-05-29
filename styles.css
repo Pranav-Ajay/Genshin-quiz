@@ -39,8 +39,6 @@ input{
   flex-direction:column;
   justify-content:flex-end;
   align-items:flex-end;
-  width:60%;
-  min-height:100%;
   border-radius:20px;}
 
 .log{
