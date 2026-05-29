@@ -2,10 +2,16 @@ body{
   background-color:#93CAED;
   font-family:Arial;
   display:flex;
-  align-items:center;}
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;}
 
 input{
   border-radius:15px;}
 
 div{
-  background-color:#FBFAF5;}
+  background-color:#FBFAF5;
+  border-radius:10px;
+  width:50%;
+  height:50vh;
+  padding:30px;}
