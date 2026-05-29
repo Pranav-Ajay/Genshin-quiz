@@ -27,6 +27,8 @@ input{
   display:flex;
   gap:30px;
   flex-direction:row;
+  justify-content:flex-start;
+  align-items:center;
   width:60%;
   height:60vh;
   min-height:100%;
@@ -38,13 +40,11 @@ input{
   gap:30px;
   flex-direction:column;
   justify-content:flex-start;
-  align-items:center;
   border-radius:20px;}
 
 .log{
   display:flex;
-  justify-content:flex-end;
-  align-items:center;}
+  justify-content:flex-end;}
 
 button{
   width:100px;
