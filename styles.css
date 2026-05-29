@@ -26,4 +26,9 @@ div{
 .x{
   display:flex;
   flex-direction:column;}
+
+button{
+  width:40px;
+  border-radius:10px;
+}
   
