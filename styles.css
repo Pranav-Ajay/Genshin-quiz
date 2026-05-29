@@ -1,5 +1,4 @@
 body{
-  background-color:#7FAEF5;
   font-family: 'Arial', sans-serif;
   font-weight: normal;
   display:flex;
@@ -20,6 +19,7 @@ input{
 div{
   gap:10px;
   display:flex;
+  justify-content:flex-end;
   align-items:center;
   flex-direction:column;
   background-color:#FBFAF5;
