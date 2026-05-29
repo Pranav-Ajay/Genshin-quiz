@@ -32,6 +32,9 @@ input{
   border-radius:20px;}
 
 .log{
+  font-size:10px;
+  gap:10px;
+  font-family:'Arial';
   display:flex;
   flex-direction:column;
   justify-content:flex-end;}
