@@ -12,6 +12,7 @@ body{
 input{
   border: 1px solid #dcdcdc;
   height:20px;
+  width:30%;
   border-radius:10px;
   outline: none;
   box-shadow: none;}
