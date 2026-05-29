@@ -21,7 +21,7 @@ input{
   background-color:#FFFFFF;
   display:flex;
   gap:200px;
-  padding:25px;
+  padding:40px;
   flex-direction:row;
   justify-content:flex-start;
   align-items:center;
