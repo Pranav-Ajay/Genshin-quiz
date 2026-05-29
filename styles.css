@@ -17,6 +17,11 @@ input{
   box-shadow: none;}
 
 div{
+  position:absolute;
+  top:0px;
+  font-color:white;}
+
+.det{
   background-color:#FFFFFF;
   display:flex;
   align-items:flex-end;
