@@ -1,4 +1,5 @@
 body{
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
   font-family: 'Arial', sans-serif;
   font-weight: normal;
   display:flex;
@@ -16,7 +17,6 @@ input{
   box-shadow: none;}
 
 div{
-  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
   gap:10px;
   display:flex;
   justify-content:flex-end;
