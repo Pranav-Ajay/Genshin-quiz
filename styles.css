@@ -26,7 +26,7 @@ input{
 .de{
   background-color:#FFFFFF;
   display:flex;
-  gap:80px;
+  gap:200px;
   padding:25px;
   flex-direction:row;
   justify-content:flex-start;
