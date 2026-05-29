@@ -10,7 +10,7 @@ body{
 
 input{
   border-radius:15px;
-  outline:0px;}
+  outline: none;}
 
 div{
   display:flex;
