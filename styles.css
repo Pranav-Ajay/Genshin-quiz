@@ -17,6 +17,7 @@ input{
   box-shadow: none;}
 
 div{
+  background-color:#FFFFFF;
   display:flex;
   align-items:flex-end;
   width:100%;
