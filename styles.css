@@ -18,7 +18,6 @@ input{
 div{
   gap:10px;
   display:flex;
-  justify-content:center;
   align-items:flex-end;
   flex-direction:column;
   background-color:#FBFAF5;
