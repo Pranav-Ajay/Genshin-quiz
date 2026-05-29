@@ -37,4 +37,8 @@ button{
   justify-content:center;
   outline:none;
 }
+
+a{
+  color:black;
+  text-decoration: none;}
   
