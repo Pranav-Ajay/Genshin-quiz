@@ -20,6 +20,7 @@ input{
   box-shadow: none;}
 
 .de{
+  backdrop-filter: blur(10px);
   background-color:#FFFFFF;
   display:flex;
   gap:200px;
@@ -32,7 +33,7 @@ input{
   border-radius:20px;
   transition:0.3s;}
 
-de:hover{
+.de:hover{
   transform:scale(1.01);}
 
 .det{
