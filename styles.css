@@ -47,6 +47,7 @@ input{
 
 .log{
   height:100%;
+  width:300px;
   display:flex;
   justify-content:flex-start;
   }
@@ -58,7 +59,7 @@ button{
 
 img{
   height:100%;
-  width:150px;
+  width:300px;
   border-radius:20px;}
 
 
